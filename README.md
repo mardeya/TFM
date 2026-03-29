@@ -18,5 +18,5 @@ Repositori del Treball Final de Màster -- Màster en Sistemes Intel·ligents.
 Fora d’aquestes carpetes, es troben els scripts que han generat les imatges, i en el seu nom s’indica el número de figura que ocupen dins la memòria.
 
 ## Agraïments 
-Per dur a terme les simulacions i generar les figures, aquest treball s’ha basat en el paquet __NetworkX__:
+Per dur a terme les simulacions i generar les figures, aquest treball s’ha utilitzat en el paquet __NetworkX__ per facilitar el treball amb xarxes:
   - Hagberg, A. A., Schult, D. A., & Swart, P. J. (2008). _Exploring network structure, dynamics, and function using NetworkX_. In _Proceedings of the 7th Python in Science Conference (SciPy2008)_, 11–15.
