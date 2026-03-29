@@ -1,0 +1,4 @@
+Model,transitivitat,assortativitat
+Configuration Model (Poisson),0.049 ± 0.010,-0.023 ± 0.067
+"Watts–Strogatz (k=2, p=0.05)",0.427 ± 0.026,-0.015 ± 0.060
+Barabási–Albert (m=2),0.058 ± 0.009,-0.198 ± 0.039
