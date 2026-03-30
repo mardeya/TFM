@@ -4,7 +4,7 @@ import networkx as nx
 from funcions.probabilitat_epidemia_grafs import probabilitat_epidemia_en_graf
 from funcions.plot_P_teoria_vs_simulacio import plot_P_teoria_vs_simulacio
 
-G = nx.watts_strogatz_graph(1000, 4, 0.1, seed=1) # Watts Strogatz
+G = nx.watts_strogatz_graph(1000, 4, 0.1, seed=12345) # Watts Strogatz
 tau_vals = np.linspace(0.0, 2.0, 41)
 gamma = 1.0
 

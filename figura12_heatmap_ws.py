@@ -5,12 +5,12 @@ from funcions.heatmap import heatmap_attack_rate
 
 
 
-def generador_WS(N: int, k: int, p: float, seed=None) -> nx.Graph:
+def generador_WS(N, k, p, seed=None):
     # k ha de ser parell i < N
     return nx.watts_strogatz_graph(N, int(k), float(p), seed=seed)
 
 # Funcio de llindar
-def llindar_moments(gamma_line: np.ndarray, k1: float, k2: float, params_graf: dict):
+def llindar_moments(gamma_line, k1, k2, params_graf):
     """
     Línia llindar basada en moments:
       tau_c(gamma) = gamma * <K> / (<K^2> - 2<K>)
