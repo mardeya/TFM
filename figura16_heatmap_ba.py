@@ -5,7 +5,6 @@ from funcions.heatmap import heatmap_attack_rate
 
 
 def generador_BA(N, m, seed=None):
-    # m ha de ser com a mínim 1 i menor que N
     return nx.barabasi_albert_graph(N, int(m), seed=seed)
 
 
