@@ -8,7 +8,7 @@ Repositori del Treball Final de Màster -- Màster en Sistemes Intel·ligents.
 
 - La carpeta __figures_memoria__ conté les imatges generades per a la memòria.
 
-- Finalment, la carpeta __estudi_xarxes_reals__ conté un estudi realitzat sobre dues xarxes reals obtingudes de l’_Stanford Network Analysis Project (SNAP)_:
+- Finalment, la carpeta __estudi_xarxes_reals__ conté un petit estudi realitzat sobre dues xarxes reals obtingudes de l’_Stanford Network Analysis Project (SNAP)_:
   https://snap.stanford.edu/data/index.html.
   - Xarxa 1. _Social circles: Facebook_
     - McAuley, J., & Leskovec, J. (2012). _Learning to Discover Social Circles in Ego Networks_. Advances in Neural Information Processing Systems.
