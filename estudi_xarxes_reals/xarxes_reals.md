@@ -12,7 +12,7 @@ Els resultats mostren que l’EBCM estàndard i la variant amb correlacions de g
 
 ### Xarxa 2: Facebook Large Page--Page Network
 
-La segona xarxa correspon al conjunt **Facebook Large Page--Page Network**, on els nodes representen pàgines de Facebook i les arestes indiquen relacions entre aquestes pàgines. En comparació amb la Xarxa 1, aquí el coeficient d’agrupament és menor, però les correlacions de mescla i l’heterogeneïtat estructural tenen un paper més rellevant.
+La segona xarxa correspon al conjunt **Facebook Large Page-Page Network**, on els nodes representen pàgines de Facebook i les arestes indiquen relacions entre aquestes pàgines. En comparació amb la Xarxa 1, aquí el coeficient d’agrupament és menor, però les correlacions de mescla i l’heterogeneïtat estructural tenen un paper més rellevant.
 
 A les figures corresponents es representa novament l’evolució de \(I(t)\) per a diversos valors de \(tau\), comparant les simulacions de Gillespie amb l’EBCM estàndard i amb la seva extensió amb correlacions de grau. Igual que abans, cada subfigura permet veure com varia la qualitat de l’ajust en funció del règim epidemiològic considerat.
 
