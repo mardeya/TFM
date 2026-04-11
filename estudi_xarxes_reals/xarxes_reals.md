@@ -2,7 +2,7 @@
 
 A més de l’estudi sobre xarxes aleatòries, també s’analitza el comportament dels models sobre dues xarxes reals de Facebook obtingudes de SNAP.
 
-### Xarxa 1: Social circles: Facebook
+### Xarxa 1: Social circles Facebook
 
 La primera xarxa correspon al conjunt **Social circles: Facebook**, construït a partir d’ego-networks anonimitzades. Es tracta d’una xarxa amb un coeficient d’agrupament alt, de manera que les hipòtesis locals de l’EBCM estàndard deixen de ser del tot adequades.
 
@@ -18,6 +18,6 @@ A les figures corresponents es representa novament l’evolució de \(I(t)\) per
 
 En aquest cas, l’EBCM estàndard ja reprodueix força bé l’ordre de magnitud i la posició del pic. Tot i així, la versió amb correlacions de grau introdueix una millora lleu al voltant del màxim, fet coherent amb la presència de patrons de mescla que no queden recollits només amb la distribució de graus.
 
-### Interpretació general de les figures
+### Conclusions
 
-En conjunt, les figures mostren dos mecanismes diferents de desviació respecte de les hipòtesis de l’EBCM estàndard. A la **Xarxa 1**, el factor dominant és l’alt coeficient d’agrupament, que introdueix dependències locals i redueix la validesa de l’aproximació localment arbòria. A la **Xarxa 2**, en canvi, les discrepàncies s’expliquen principalment per les correlacions de graus i per l’estructura heterogènia de la xarxa.
+En resum, les figures mostren dues desviacions diferents respecte de les hipòtesis de l’EBCM estàndard. A la **Xarxa 1**, el factor dominant és l’alt coeficient d’agrupament, que introdueix dependències locals i redueix la validesa de l’aproximació localment arbòria. A la **Xarxa 2**, en canvi, les discrepàncies s’expliquen principalment per les correlacions de graus i per l’estructura heterogènia de la xarxa.
