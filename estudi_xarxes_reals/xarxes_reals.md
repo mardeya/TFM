@@ -10,7 +10,7 @@ A les figures associades es compara l’evolució temporal de la fracció infect
 
 Els resultats mostren que l’EBCM estàndard i la variant amb correlacions de grau capturen raonablement el moment del brot, però no sempre descriuen bé la forma del pic epidèmic. En aquest cas, la correcció empírica permet retardar i eixamplar el brot, i dona una aproximació qualitativament més propera a les simulacions, sobretot per a valors petits de tau.
 
-### Xarxa 2: Facebook Large Page--Page Network
+### Xarxa 2: Facebook Large Page-Page Network
 
 La segona xarxa correspon al conjunt **Facebook Large Page-Page Network**, on els nodes representen pàgines de Facebook i les arestes indiquen relacions entre aquestes pàgines. En comparació amb la Xarxa 1, aquí el coeficient d’agrupament és menor, però les correlacions de mescla i l’heterogeneïtat estructural tenen un paper més rellevant.
 
